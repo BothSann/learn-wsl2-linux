@@ -37,6 +37,7 @@ Don't rush. Typing the command yourself beats reading about it.
 - `find`, `grep`, `grep -r`
 - `which`, `whereis`
 - Pipes: `command1 | command2`
+- 📄 Practice tasks: [`stages/stage-4-finding-things/practice.md`](stages/stage-4-finding-things/practice.md)
 
 ### Stage 5 — Processes & system
 - `ps`, `top` or `htop`
