@@ -31,6 +31,7 @@ Don't rush. Typing the command yourself beats reading about it.
 - `chmod`, `chown`
 - Reading `-rwxr-xr-x` output from `ls -l`
 - `sudo` — what it does, why be careful with it
+- 📄 Practice tasks: [`stages/stage-3-permissions-and-ownership/practice.md`](stages/stage-3-permissions-and-ownership/practice.md)
 
 ### Stage 4 — Finding things
 - `find`, `grep`, `grep -r`
