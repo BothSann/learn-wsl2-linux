@@ -25,6 +25,7 @@ Don't rush. Typing the command yourself beats reading about it.
 - `cat`, `less`, `head`, `tail`
 - Wildcards: `*`, `?`
 - Tab-completion (press Tab, always)
+- 📄 Practice tasks: [`stages/stage-2-files-and-folders/practice.md`](stages/stage-2-files-and-folders/practice.md)
 
 ### Stage 3 — Permissions & ownership
 - `chmod`, `chown`
