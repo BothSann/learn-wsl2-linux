@@ -2,14 +2,10 @@
 
 **Stage:** (e.g. Stage 1 — Get oriented)
 
-**Commands I tried:**
--
+## **Commands I tried:**
 
-**What confused me:**
--
+## **What confused me:**
 
-**What I understood:**
--
+## **What I understood:**
 
-**Next time:**
--
+## **Next time:**

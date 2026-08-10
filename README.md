@@ -18,6 +18,7 @@ Don't rush. Typing the command yourself beats reading about it.
 - Absolute vs relative paths (`/home/bs` vs `../`)
 - `man <command>` and `<command> --help`
 - `clear`, `history`, up-arrow to reuse commands
+- 📄 Practice tasks: [`stages/stage-1-get-oriented/practice.md`](stages/stage-1-get-oriented/practice.md)
 
 ### Stage 2 — Files & folders
 - `mkdir`, `touch`, `cp`, `mv`, `rm`, `rm -r`
