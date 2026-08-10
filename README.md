@@ -43,6 +43,7 @@ Don't rush. Typing the command yourself beats reading about it.
 - `ps`, `top` or `htop`
 - `kill`, `Ctrl+C`, `Ctrl+Z`, `&`, `jobs`
 - `df -h`, `du -sh`, `free -h`
+- 📄 Practice tasks: [`stages/stage-5-processes-and-system/practice.md`](stages/stage-5-processes-and-system/practice.md)
 
 ### Stage 6 — Text processing
 - `grep`, `sed`, `awk` (basics only)
